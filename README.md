@@ -1,0 +1,3 @@
+# POTATO SERVER
+
+node 20.18.0
